@@ -1,1 +1,23 @@
-
+body {
+    background-color: purple;
+}
+h1 {
+    background-color: purple;
+    color: yellow
+}
+tr {
+    color: yellow;
+    font-family: sans-serif
+}
+img {
+    height: 100px;
+    width: 100px
+}
+td {
+    border: 3px solid;
+    padding: 15px;
+        background color: purple;
+    color: yellow;
+    font size: 150%;
+    font-family: sans-serif
+}
